@@ -1,1 +1,1 @@
-# project_NLP
+Text summarization using Natural Language Processing
